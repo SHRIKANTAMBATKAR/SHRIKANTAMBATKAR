@@ -62,8 +62,8 @@ Git, GitHub, Arduino, VS Code, Jupyter Notebook
 ---
 
 ### 📌 Portfolio and Resume
-- Portfolio: **https://github.com/SHRIKANTAMBATKAR/Portfolio-**
-- Resume: **https://drive.google.com/file/d/1IIS_NSOXEDWMv4xIX0W-ekJ0qo77LhlT/view**
+- <a  href="https://my-portfolio-eight-gray-87.vercel.app/"><button>Portfolio</button></a> 
+- <a  href="https://drive.google.com/file/d/1SDpGmYDA7YrJQGWpb_m89lOBq1p7rEXZ/view?usp=drive_link"><button>Resume</button></a> 
 
 ---
 
