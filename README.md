@@ -70,10 +70,11 @@ Git, GitHub, Arduino, VS Code, Jupyter Notebook
 <p>
   <img 
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SHRIKANTAMBATKAR&show_icons=true&locale=en&layout=compact"
-    alt="top-langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ShrikantAmbatkar&show_icons=true&locale=en&layout=compact"
+    alt="ShrikantAmbatkar top languages"
   />
 </p>
+
 
 
 ### ⚡ Fun Fact
