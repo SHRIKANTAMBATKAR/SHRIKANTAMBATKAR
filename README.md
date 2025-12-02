@@ -67,15 +67,6 @@ Git, GitHub, Arduino, VS Code, Jupyter Notebook
 - <a href="https://drive.google.com/file/d/1SDpGmYDA7YrJQGWpb_m89lOBq1p7rEXZ/view?usp=drive_link" target="_blank"><button>Resume</button></a> 
 
 ---
-<p>
-  <img 
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SHRIKANTAMBATKAR&show_icons=true&locale=en&layout=compact"
-    alt="ShrikantAmbatkar top languages"
-  />
-</p>
-
-
 
 ### ⚡ Fun Fact
 I think I'm funny, my code sometimes disagrees.
