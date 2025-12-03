@@ -65,7 +65,7 @@ Git, GitHub, Arduino, VS Code, Jupyter Notebook
 ---
 
 ### 📌 Portfolio and Resume
-- <a href="https://my-portfolio-eight-gray-87.vercel.app/" target="_blank"><button>Portfolio</button></a>
+- <a href="https://portfolio-1d2u.vercel.app/" target="_blank"><button>Portfolio</button></a>
 - <a href="https://drive.google.com/file/d/1SDpGmYDA7YrJQGWpb_m89lOBq1p7rEXZ/view?usp=drive_link" target="_blank"><button>Resume</button></a> 
 
 ---
