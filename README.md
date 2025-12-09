@@ -71,4 +71,4 @@ Git, GitHub, Arduino, VS Code, Jupyter Notebook
 
 ### ⚡ Fun Fact
 I think I'm funny, my code sometimes disagrees.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHRIKANTAMBATKAR&label=Profile%20views&color=0e75b6&style=flat" alt="SHRIKANTAMBATKAR" /> </p>
