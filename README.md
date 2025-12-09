@@ -73,4 +73,3 @@ Git, GitHub, Arduino, VS Code, Jupyter Notebook
 ### ⚡ Fun Fact
 I think I'm funny, my code sometimes disagrees.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHRIKANTAMBATKAR&" alt="SHRIKANTAMBATKAR" /></p>
