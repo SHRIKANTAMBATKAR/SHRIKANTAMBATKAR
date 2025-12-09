@@ -2,7 +2,6 @@
 <h3 align="center">BTech Computer Engineering, BIT | Aspiring Full Stack Developer | MERN |JAVA Backend Dev| AI & Hackathon Enthusiast</h3>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SHRIKANTAMBATKAR&label=Profile%20views&color=0e75b6&style=flat" alt="SHRIKANTAMBATKAR" /> </p>
 
 
 ### 🚀 Current Work
