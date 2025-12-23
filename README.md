@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 aling="center"> 💫 About Me:</h1>
 
 <h1 align="center">Hi 👋, I'm Shrikant Ambatkar</h1>
 <h3 align="center">BTech Computer Engineering, BIT | Aspiring Full Stack Developer | MERN |JAVA Backend Dev| AI & Hackathon Enthusiast</h3>
