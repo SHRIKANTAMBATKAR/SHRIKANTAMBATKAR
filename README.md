@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00FFAA&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shrikant;Full+Stack+Developer;MERN+%26+Java+Backend;AI+%26+Hackathon+Enthusiast" alt="Typing SVG" />
 </h1>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Engineering%2C+BIT;Building+Scalable+Web+Applications;Always+Learning+%26+Growing" alt="Subtitle" />
 </h3>
